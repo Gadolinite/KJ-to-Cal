@@ -2,7 +2,7 @@
   "name": "Energy Converter",
   "short_name": "Energy Conv.",
   "description": "A simple Kilojoule (KJ) to Calorie (kcal) converter.",
-  "start_url": "./energy_converter.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#FF6B6B",
   "theme_color": "#FF6B6B",
