@@ -1,8 +1,9 @@
 {
   "name": "Energy Converter",
-  "short_name": "Energy Conv.",
+  "short_name": "KJ <-> Cal",
   "description": "A simple Kilojoule (KJ) to Calorie (kcal) converter.",
-  "start_url": "./index.html",
+  "start_url": ".",
+  "scope": ".",
   "display": "standalone",
   "background_color": "#FF6B6B",
   "theme_color": "#FF6B6B",
